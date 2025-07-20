@@ -15,7 +15,6 @@ I'm always learning 🌱 and love to explore new tools and techniques in the AI 
 
 - 🤖 **Lead Data Scientist** – [AyaData.ai], Built and deployed CV models for palm tree detection and disease classification (2022–2024)
 - 🛰️ **Data Scientist** [Yemaachi Biotech], AI for Precision Medicine (2021–2022)
-- 🛠️ **ML Engineer**, Worked on LLM-based pipelines, RAG systems, and ML tooling (SageMaker, Lambda, Docker)
 - 🎓 **M.Sc. in Machine Intelligence** – [Africa Institute for Mathematical Sciences] (2019–2020)
 - 🎓 **M.Sc. in Mathematical Sciences(Coop)** – [Africa Institute for Mathematical Sciences] (2017–2019)
 
